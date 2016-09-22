@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">User registration</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_registeration">RegisterationActivity</string>
+    <string name="title_activity_user_list">UserListActivity</string>
+    <string name="title_activity_user_details">UserDetailsActivity</string>
+</resources>
